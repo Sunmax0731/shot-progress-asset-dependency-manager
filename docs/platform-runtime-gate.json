@@ -1,0 +1,11 @@
+{
+  "product": "shot-progress-asset-dependency-manager",
+  "title": "ショット進捗・素材依存管理",
+  "domain": "WindowsApp",
+  "ideaNo": 20,
+  "platformType": "windows-local-app",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
